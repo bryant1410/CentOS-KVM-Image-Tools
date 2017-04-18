@@ -103,7 +103,7 @@ By default this script uses the centos6x-vm-gpt-selinux.cfg Kickstart configurat
 
 The following section illustrates the main operations performed by the centoskvm.sh script to better understand the process and provide some tips.
 
-####1. Creating the Virtual Machine
+#### 1. Creating the Virtual Machine
 
 The firt step consist into creating the VM using the virt-install command with the following parameters:
 
